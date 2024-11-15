@@ -4,7 +4,7 @@ export default class TransferModel {
   // choiceGroups: Initial list of available items
   // chosenGroups: Empty array for selected items
   constructor() {
-      this.choiceGroups = ["Group A", "Group B", "Group C", "Group D"];
+      this.choiceGroups = ["Group A", "Group B", "Group C", "Group D", "Group E", "Group F", "Group G"];
       this.chosenGroups = [];
   }
 
